@@ -1,0 +1,16 @@
+HTML
+
+Hypertext
+Hiper textos
+são textos que aceitam links e audio visual
+
+Markup
+Marcação feitas com <tags>
+
+Language
+Linguagem
+
+---------------------------------------------
+CSS
+
+Cascading Stylesheet
